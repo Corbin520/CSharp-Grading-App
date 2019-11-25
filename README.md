@@ -23,3 +23,10 @@ What I learned from this application.
     - Static, Public and Private members
     - .NET Runtime and 
 
+
+
+* UPDATE 11/25/2019
+{
+    Working more into the application, i learned more testing and how
+    to pass reference types, and value types to eachother.
+}
