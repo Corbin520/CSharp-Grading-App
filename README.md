@@ -30,3 +30,11 @@ What I learned from this application.
     Working more into the application, i learned more testing and how
     to pass reference types, and value types to eachother.
 }
+* UPDATE 11/26/2019
+{
+    Added the user input so that the user can enter in grades as well
+    as type in "q" to quit. Once a user quits the program, it will display
+    the average, high and low grade. I also added some throw and catch
+    so that I can throw and error and catch an error if the user puts in
+    incorrect format.
+}
