@@ -38,3 +38,9 @@ What I learned from this application.
     so that I can throw and error and catch an error if the user puts in
     incorrect format.
 }
+
+* UPDATE 11/27/2019
+{
+    In the course today, I learned how to build types, getters, setters
+    and members
+}
