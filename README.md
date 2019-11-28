@@ -8,10 +8,6 @@ Output Video
     https://drive.google.com/file/d/1XkqEZGYTURyevnnahWM5g_prfs38Y4jz/view?usp=sharing
 }
 
-Unit Test(s) Video
-{
-
-}
 
 This is my first C# application, and I did learn alot. Below you will see what I learned
 durring this course.
@@ -36,6 +32,7 @@ What I learned from this application.
     - Gettes & Setters
     - Building Types
     - Events and Delegates
+    - OOP
 
 Overall, this was very fun and challanging. I look forward to building more C# applications
 
