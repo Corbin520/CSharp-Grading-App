@@ -1,10 +1,21 @@
 # CSharp-Grading-App
-{ Video Will be Added when completed }
 
+This is a C# Gradebook console application that will take in user input (int of grades) and calculate the
+average grade, high grade, low grade as well as a letter grade depending on the average.
 
-This C# Application will be used for grading. It is a console application
+Output Video
+{
+    https://drive.google.com/file/d/1XkqEZGYTURyevnnahWM5g_prfs38Y4jz/view?usp=sharing
+}
 
-What I will be doing in this application:
+Unit Test(s) Video
+{
+
+}
+
+This is my first C# application, and I did learn alot. Below you will see what I learned
+durring this course.
+
 
 
 * Writing a grading application that will take in grades, compute the
@@ -22,25 +33,9 @@ What I learned from this application.
     - Using Statements, Methods & Constructors
     - Static, Public and Private members
     - .NET Runtime and 
+    - Gettes & Setters
+    - Building Types
+    - Events and Delegates
 
+Overall, this was very fun and challanging. I look forward to building more C# applications
 
-
-* UPDATE 11/25/2019
-{
-    Working more into the application, i learned more testing and how
-    to pass reference types, and value types to eachother.
-}
-* UPDATE 11/26/2019
-{
-    Added the user input so that the user can enter in grades as well
-    as type in "q" to quit. Once a user quits the program, it will display
-    the average, high and low grade. I also added some throw and catch
-    so that I can throw and error and catch an error if the user puts in
-    incorrect format.
-}
-
-* UPDATE 11/27/2019
-{
-    In the course today, I learned how to build types, getters, setters
-    and members
-}
